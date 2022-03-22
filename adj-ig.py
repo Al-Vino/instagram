@@ -1,3 +1,7 @@
+# YEAHH OPEN SOURCE
+# Boleh di Recode Asal ngotak
+# Ingat Klo Recode Sertakan Nama Gue Juga
+# Kalo ngga gue sumpahin Lo sakit sakitan awokokokwkoekwok
 try:
 	import os
 	import re
