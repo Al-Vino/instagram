@@ -11,6 +11,6 @@ $ git clone https://github.com/Al-Vino/instagram
 # Deff Jalan
 $ cd instagram
 # Deff Masuk
-$ python2 igz.py
+$ python adj-ig.py
 
 🌟KASIH BINTANG WOY🌟
