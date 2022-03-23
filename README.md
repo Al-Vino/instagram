@@ -2,8 +2,10 @@
 👇Download apk termuxnya disini👇
 https://f-droid.org/repo/com.termux_117.apk
 
- $ apt update apt upgrade -y apt 
-install python git -y apt install python2
+ $ apt update apt upgrade apt 
+install python git apt install python2 
+pip install requests mechanize
+
 
 # Install
 $ git clone https://github.com/Al-Vino/instagram
