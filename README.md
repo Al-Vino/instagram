@@ -1,9 +1,5 @@
 # PAKE DOANG NGGA FOLLOW,KONTOL LOH
 
-![deskripsi gambar](https://i.ibb.co/BgNPycM/Screenshot-2022-03-25-10-07-56-106-com-termux.png)
-
- 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟 KOK BEDA²? IYH KEK kamu dan aku🌟🌟🌟🌟🌟
-
 ![deskripsi gambar](https://i.ibb.co/qJFkjY2/Screenshot-2022-03-25-10-11-45-331-com-termux.png)
 
 # Bahan-bahan
