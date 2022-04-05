@@ -16,7 +16,7 @@ $ apt update apt upgrade -y
 $ apt install python git -y
 $ apt install python2 -y
 $ pip install requests mechanize -y
-$ pip install stdiomask
+$ pip install bs4 stdiomask
 $ git clone https://github.com/Al-Vino/instagram
 $ cd instagram
 $ python adj-ig.py
